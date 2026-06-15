@@ -83,7 +83,7 @@ capstone-project/
 
 ---
 ## Final Result File with Code (Google Colab Version)
-- Capston-Project_Customer-Review-Sentiment-Analysis-using-BERT_Vaibhav-Chavan_PGDSAIML-B1.ipynb (The Code and Result File which was run on Goolge Colab is attached which shows code along with it's result
+- Capston-Project_Customer-Review-Sentiment-Analysis-using-BERT_Vaibhav-Chavan_PGDSAIML-B1.ipynb (The Code and Result File which was run on Goolge Colab is attached which shows code along with it's result)
 - Capston-Project_Customer-Review-Sentiment-Analysis-using-BERT_Vaibhav-Chavan_PGDSAIML-B1.pptx (The file shows the Project Overview and Conclusion)
 
 ## Setup Instructions
