@@ -140,6 +140,7 @@ streamlit run app.py
 ```
 
 The app will be available at `http://localhost:8501`
+For Demonstrations the Web APP is available on server you can use link "http://122.169.98.97:8501
 
 ### 3. FastAPI Endpoint
 
@@ -147,8 +148,9 @@ The app will be available at `http://localhost:8501`
 cd deployment
 uvicorn api:app --host 0.0.0.0 --port 8000
 ```
-
+For demosntration the API is avilable on host 122.169.98.97
 API documentation available at `http://localhost:8000/docs`
+For Demonstrations the API documentation available at `http://122.169.98.97:8000/docs`
 
 **Example API call:**
 ```bash
@@ -243,10 +245,7 @@ Both load the saved model artifact without requiring retraining.
 
 ## References
 
-1. Devlin, J., et al. (2019). "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding." NAACL.
-2. Sanh, V., et al. (2019). "DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter." NeurIPS Workshop.
-3. Maas, A., et al. (2011). "Learning Word Vectors for Sentiment Analysis." ACL.
-4. Hugging Face Transformers Documentation. https://huggingface.co/docs/transformers
+1. Hugging Face Transformers Documentation. https://huggingface.co/docs/transformers
 
 ---
 
